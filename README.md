@@ -1,4 +1,12 @@
-# NIFI PRÁCTICA 3
+pt2 citridata
+
+
+
+
+
+
+
+
 
 
 
